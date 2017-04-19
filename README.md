@@ -1,4 +1,7 @@
-# test coverage for  [browser-pack (v6.0.2)](https://github.com/substack/browser-pack)  [![npm package](https://img.shields.io/npm/v/npmtest-browser-pack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-browser-pack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-browser-pack.svg)](https://travis-ci.org/npmtest/node-npmtest-browser-pack)
+# npmtest-browser-pack
+
+#### basic test coverage for  [browser-pack (v6.0.2)](https://github.com/substack/browser-pack)  [![npm package](https://img.shields.io/npm/v/npmtest-browser-pack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-browser-pack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-browser-pack.svg)](https://travis-ci.org/npmtest/node-npmtest-browser-pack)
+
 #### pack node-style source files from a json stream into a browser bundle
 
 [![NPM](https://nodei.co/npm/browser-pack.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/browser-pack)
